@@ -1,1 +1,1 @@
-Some papers written during the BSc and MSc years.
+This repository contains some of the papers I wrote during the BSc and MSc years.
